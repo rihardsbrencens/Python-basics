@@ -1,0 +1,8 @@
+if 5>= 5:
+print("hello")
+if 5 <= 5:
+print("hello")
+if 5 == 6:
+print("hello that's magic)
+if 5 != 6:
+print("hello that's not magic)
